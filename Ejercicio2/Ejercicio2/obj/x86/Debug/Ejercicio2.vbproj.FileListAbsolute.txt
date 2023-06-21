@@ -1,0 +1,9 @@
+E:\Facultad UADER  FCyT\Informatica II 2023\TP4\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+E:\Facultad UADER  FCyT\Informatica II 2023\TP4\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+E:\Facultad UADER  FCyT\Informatica II 2023\TP4\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.xml
+E:\Facultad UADER  FCyT\Informatica II 2023\TP4\Ejercicio2\Ejercicio2\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Facultad UADER  FCyT\Informatica II 2023\TP4\Ejercicio2\Ejercicio2\obj\x86\Debug\Ejercicio2.vbproj.GenerateResource.Cache
+E:\Facultad UADER  FCyT\Informatica II 2023\TP4\Ejercicio2\Ejercicio2\obj\x86\Debug\Ejercicio2.exe
+E:\Facultad UADER  FCyT\Informatica II 2023\TP4\Ejercicio2\Ejercicio2\obj\x86\Debug\Ejercicio2.xml
+E:\Facultad UADER  FCyT\Informatica II 2023\TP4\Ejercicio2\Ejercicio2\obj\x86\Debug\Ejercicio2.pdb
+E:\Facultad UADER  FCyT\Informatica II 2023\TP4\Ejercicio2\Ejercicio2\obj\x86\Debug\WindowsApplication1.Form.resources
